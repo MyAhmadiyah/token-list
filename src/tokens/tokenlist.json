@@ -1,0 +1,19 @@
+{
+  "name": "Solana Token List",
+  "tags": {},
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "CAAgn7YzB5xAGEkVRGCW3TwXJvGFtXR78Mfm5SRrpump",
+      "symbol": "SOLP",
+      "name": "Solpro Space",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MyAhmadiyah/token-list/main/assets/mainnet/CAAgn7YzB5xAGEkVRGCW3TwXJvGFtXR78Mfm5SRrpump/logo.png",
+      "tags": ["community", "meme"],
+      "extensions": {
+        "website": "https://solpro.space",
+        "twitter": "https://twitter.com/solprotoken"
+      }
+    }
+  ]
+}
